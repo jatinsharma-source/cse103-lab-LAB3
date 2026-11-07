@@ -1,40 +1,63 @@
 
-# CSE103 Lab 3
+# CSE103 Lab – LAB 3: GitHub Collaboration & API Interaction
 
-## Introduction
+![Last Commit](https://img.shields.io/github/last-commit/jatinsharma-source/cse103-lab-LAB3)
+![Language](https://img.shields.io/badge/language-Markdown-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-This project is created for CSE103 Lab 3.
+## Overview
 
-The purpose of this project is to learn Git, GitHub, version control, and Markdown documentation.
+This repository contains lab work for LAB 3 of the Computer Fundamentals & Career Pathways (CSE103) course at K.R. Mangalam University, Gurugram.
 
-## Project Overview
+The project demonstrates Git and GitHub collaboration, version control, and Markdown documentation.
 
-This repository contains the practical work completed as part of CSE103 Lab 3.
+## Repository Structure
 
-## Files Included
+```text
+cse103-lab-LAB3/
+|
++-- README.md          # Project documentation
++-- MARKDOWN_GUIDE.md  # Markdown syntax reference
++-- CHANGELOG.md       # Project version history
++-- .gitignore         # Files excluded from Git tracking
+```
 
-| File Name | Description |
+## Skills Demonstrated
+
+| Skill | Status |
 |---|---|
-| README.md | Project documentation |
-| MARKDOWN_GUIDE.md | Markdown syntax examples |
-| CHANGELOG.md | Project change history |
-| .gitignore | Files ignored by Git |
+| Git initialisation | Completed |
+| Meaningful commits | Completed |
+| Remote push / pull | Completed |
+| Markdown documentation | Completed |
+| API interaction | Not yet included |
 
-## Skills Learned
+## How to Run
 
-- Understanding Git and GitHub
-- Creating and managing repositories
-- Writing Markdown documentation
-- Using Git commands
-- Tracking project changes
+This repository currently contains documentation files and Git configuration.
 
-## Tools Used
+There is no executable Python script (main.py) in the current repository.
 
-- Visual Studio Code
-- Git
-- GitHub
-- Markdown
+To download the repository:
 
-## Conclusion
+```bash
+git clone https://github.com/jatinsharma-source/cse103-lab-LAB3.git
 
-This lab helped me understand the basics of version control and documentation using Git and GitHub.
+cd cse103-lab-LAB3
+```
+
+## Key Learning Outcomes
+
+- Configured Git and worked with a local repository.
+- Created meaningful commits using descriptive commit messages.
+- Connected a local repository with GitHub.
+- Pushed changes to a remote GitHub repository.
+- Created structured Markdown documentation.
+- Learned basic version control concepts.
+
+## References
+
+- [Pro Git Book](https://git-scm.com/book/en/v2)
+- [GitHub Skills](https://skills.github.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [GitHub Documentation](https://docs.github.com/)
