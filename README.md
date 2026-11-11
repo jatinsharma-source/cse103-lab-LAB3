@@ -61,3 +61,7 @@ cd cse103-lab-LAB3
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Documentation](https://docs.github.com/)
+
+## Description
+
+CSE103 lab repository — LAB 3.
